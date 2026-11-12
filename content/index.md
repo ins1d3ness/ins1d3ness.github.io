@@ -3,6 +3,7 @@ title: Home
 ---
 # Welcome to my digital garden!
 
+**11/11/2026**
 These are my notes, thoughts, experiments, and explorations. This space was built from several archives: my Metaroa blog, my first alt blog, *corpses in acid rain*, and my main Substack hub, *Acid Diaries* (which, at one point, used to be my main digital garden (2022–2026)).
 
 As of November 11th, 2026, only *The Emporium* (Metaroa blog) archive has been loaded, with the *Acid Diaries* and *CIAR* archives still TBT. I'll be undertaking a full-scale migration over the coming weeks.
