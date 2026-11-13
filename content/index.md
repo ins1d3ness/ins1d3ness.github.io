@@ -22,6 +22,11 @@ Anyway, TTYS. This is how things look like as of now.
 
 --IS
 
+**14/11/2026**
+Even though most of my work is published or made in English - especially these days - some of the work I'm involved in is relayed via Slovenian and Croatian. 
+
+*Frekvencija* (The Frequency) is a new essay/podcast platform I'm involved in. It was conceptualized by some dear hometown trailblazers and we're planning to expand the platform beyond our little circle of pretentious renegades. You can access the website [here](https://frekvencija.eu/). More stuff to come, obviously. Feel free to sniff around the website.
+
 
 ## Recent notes
 
