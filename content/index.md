@@ -27,6 +27,9 @@ Even though most of my work is published or straight up conceptualized in Englis
 
 *Frekvencija* (The Frequency) is a new (Croatian/Slovenian [TBA]) essay/podcast platform I'm involved in. It was conceptualized by some dear hometown trailblazers and we're planning to expand the platform beyond our little circle of pretentious renegades. You can access the website [here](https://frekvencija.eu/). More stuff to come, obviously. Feel free to sniff around the website.
 
+If sending emails back and forth just isn't your thing, FAUST has a Matrix space now (*for the plebs - that's esentially a Discord alternative*). You can access it via its [unique ID](https://matrix.to/#/#faust:matrix.org). The space itself is public, which means it's accessible through Matrix's discover directory. As of now, all rooms are public. 
+
+--IS
 
 ## Recent notes
 
