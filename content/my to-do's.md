@@ -1,0 +1,4 @@
+- *film yt video on obsidian*
+- clean apt
+- check notes on 2
+- *stretch*
