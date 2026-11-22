@@ -1,4 +1,12 @@
-- *film yt video on obsidian*
 - clean apt
-- check notes on 2
 - *stretch*
+- vitamins
+- coffee
+- breakfast
+- dinner
+- FAUST session
+- FREKVENCIJA session
+- ko-fi post + story
+- send order to print shop
+- post listing on marketplace
+
