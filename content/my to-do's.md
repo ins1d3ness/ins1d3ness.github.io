@@ -1,8 +1,6 @@
 - clean apt
 - *stretch*
 - vitamins
-- coffee
-- breakfast
 - dinner
 - FAUST session
 - FREKVENCIJA session
